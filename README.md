@@ -10,7 +10,7 @@ You will find all the association graphs mentioned in the article.
 ### [Questions plot](./Questions%20plot): 
 You will find all the questions plot mentioned in the article.
 
-### [Survey questions](https://docs.google.com/document/d/1-adSG_ne0xSV-i8WhcmAvqRDL8DyXJJuIVXVRbzcmoM/edit?usp=sharing):  
+### [Survey questions](https://drive.google.com/file/d/1_uXMG_YIQpsW0OEv9hIcfHk821jGx943/view?usp=sharing):  
 You will find all the survey questions provided in the form of a table. The information in the table is presented in the following order:
 #### -RQ:
 Whether the question is related to demographics or to a specific research question (RQ), if it belongs to an RQ, we define which one.
