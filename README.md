@@ -4,9 +4,19 @@ Welcome to the repository where all the data present in the article "Developersâ
 [Complete database](https://github.com/gpt-impact/Full_analysis_plot)
 
 ## Content 
-[Associations plot](./Associations%20plot): You will find all the association graphs mentioned in the article.
+### [Associations plot](./Associations%20plot): 
+You will find all the association graphs mentioned in the article.
 
-[Questions plot](./Questions%20plot): You will find all the questions plot mentioned in the article.
+### [Questions plot](./Questions%20plot): 
+You will find all the questions plot mentioned in the article.
 
-
-##
+### [Survey questions](https://docs.google.com/document/d/1-adSG_ne0xSV-i8WhcmAvqRDL8DyXJJuIVXVRbzcmoM/edit?usp=sharing):  
+You will find all the survey questions provided in the form of a table. The information in the table is presented in the following order:
+#### -RQ:
+Whether the question is related to demographics or to a specific research question (RQ), if it belongs to an RQ, we define which one.
+#### -NÂº:
+The question number, to facilitate identification if mentioned in the text or for communication with the authors, for critiques or any clarifications.
+#### -Questions:
+The text of the question. We avoided overloading with information, so the complete text is not provided here. To access the full survey, please follow this link: [Survey](https://drive.google.com/file/d/1mBqmsEJBouvPqCIgQDqzBGWnsqqdqAbo/view?usp=sharing).
+#### -Type:
+Whether the question is open-ended or closed-ended.
