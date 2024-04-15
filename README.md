@@ -4,8 +4,11 @@ Welcome to the repository for the paper: "Developers' Perceptions on the Impact 
 [Complete database](https://github.com/gpt-impact/Full_analysis_plot)
 
 ## Content 
-### [Associations plot](./Associations%20plot): 
-You will find all the association graphs mentioned in the article.
+### [Valid Associations](./Valid Associations):
+You will find all the valid association graphs mentioned in the article.
+
+### [No Association](./No Associations):
+You will find all the graphs without association mentioned in the article.
 
 ### [Questions plot](./Questions%20plot): 
 You will find all the questions plot mentioned in the article.
