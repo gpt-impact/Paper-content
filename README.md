@@ -5,13 +5,13 @@ Welcome to the repository for the paper: "Developers' Perceptions on the Impact 
 
 ## Content 
 ### [Valid Associations](./Valid%20Associations):
-You will find all the valid association graphs mentioned in the article.
+You will find all the valid association graphs mentioned in the paper.
 
 ### [No Association](./No%20Associations):
-You will find all the graphs without association mentioned in the article.
+You will find all the graphs without association mentioned in the paper.
 
 ### [Questions plot](./Questions%20plot): 
-You will find all the questions plot mentioned in the article.
+You will find all the questions plot mentioned in the paper.
 
 ### [Survey questions](https://drive.google.com/file/d/1_uXMG_YIQpsW0OEv9hIcfHk821jGx943/view?usp=sharing):  
 You will find all the survey questions provided in the form of a table. The information in the table is presented in the following order:
