@@ -7,7 +7,7 @@ Welcome to the repository for the paper: "Developers' Perceptions on the Impact 
 ### [Valid Associations](./Valid%20Associations):
 You will find all the valid association graphs mentioned in the paper.
 
-### [No Association](./No%20Associations):
+### [No Association](./No%20Association):
 You will find all the graphs without association mentioned in the paper.
 
 ### [Questions plot](./Questions%20plot): 
